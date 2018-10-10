@@ -1,0 +1,28 @@
+{
+  "name": "gitdemo",
+  "version": "1.0.0",
+  "description": "gitdemo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamielhf/gitdemo.git"
+  },
+  "keywords": [
+    "git",
+    "demo"
+  ],
+  "author": "jamie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamielhf/gitdemo/issues"
+  },
+  "homepage": "https://github.com/jamielhf/gitdemo#readme",
+  "dependencies": {
+  
+  }
+}
