@@ -60,7 +60,8 @@ conventional-changelog -p angular -i CHANGELOG.md -w
 
 [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
 
-### 修改2
 ### 修改1
+
+### 修改2
 
 ### 修改3
