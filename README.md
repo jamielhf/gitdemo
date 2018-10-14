@@ -84,8 +84,7 @@ git rebase   [startpoint]   [endpoint]  --onto  [branchName]
 
 ## 文章
 
-[Commit message 和 Change log 编写指南]
-(http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+[Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
 
 ### 修改1
 
@@ -94,3 +93,5 @@ git rebase   [startpoint]   [endpoint]  --onto  [branchName]
 ### 修改4
 
 ### 修改5
+
+### 修改2
