@@ -79,7 +79,7 @@ drop：我要丢弃该commit（缩写:d）
 将某一段commit粘贴到另一个分支上
 
 ```bash
-git rebase   [startpoint]   [endpoint]  --onto  [branchName]
+git rebase --onto  [branchName]  [startpoint]   [endpoint]
 ```
 
 ## 文章
